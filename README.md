@@ -2,7 +2,7 @@
 
 This package helps you create a tutorial system for your unity game
 
-![](https://github.com/uchar/Tutorial-Maker/blob/main/README%20Files/help.gif)
+![](https://github.com/uchar/Tutorial-Maker/blob/main/README%20Files/help.gif )
 
 # How to install
 
@@ -18,13 +18,15 @@ Inside `dependencies` add this two package:
 
 Add `TutorialSystem` object into your scene and change it base on your need
 
-![Tutorial Maker Screenshot](/README Files/screenshot1.jpg?raw=true "Tutorial Maker Screenshot")
+<img src="https://github.com/uchar/Tutorial-Maker/blob/main/README%20Files/screenshot1.jpg" width="500" />
 
-You can check this video for a complete guide:
 
 # ShowCase
 
-Used in this game  [Punchy Race](https://play.google.com/store/apps/details?id=com.dopamine.punchyrace3d&hl=en&gl=US) :
+Used in :
+
+[Punchy Race](https://play.google.com/store/apps/details?id=com.dopamine.punchyrace3d&hl=en&gl=US) 
 
 ![](https://github.com/uchar/Tutorial-Maker/blob/main/README%20Files/showcase.gif)
+
 
