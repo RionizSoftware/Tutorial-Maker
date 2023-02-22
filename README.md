@@ -10,7 +10,6 @@ In your project root directory open packages/manifest.json :
 Inside `dependencies` add this two package:
 
 ```
-"com.domybest.mybox": "https://github.com/Deadcows/MyBox.git",
 "com.rioniz.tutorial-maker": "file:C:/Projects/tutorial-system",
 ```
 
