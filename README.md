@@ -6,12 +6,8 @@ This package helps you create a tutorial system for your unity game
 
 # How to install
 
-In your project root directory open packages/manifest.json :
-Inside `dependencies` add this two package:
+Use [UPM](https://docs.unity3d.com/Manual/upm-ui-giturl.html) to install the package via the following Git URL: `https://github.com/uchar/Tutorial-Maker.git#package`.
 
-```
-"com.rioniz.tutorial-maker": "file:C:/Projects/tutorial-system",
-```
 
 # How To use
 
