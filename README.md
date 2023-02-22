@@ -8,7 +8,7 @@ This package helps you create a tutorial system for your unity game
 
 Use [UPM](https://docs.unity3d.com/Manual/upm-ui-giturl.html) to install the package via the following Git URL: `https://github.com/uchar/Tutorial-Maker.git#package`.
 
-![](https://i.gyazo.com/b54e9daa9a483d9bf7f74f0e94b2d38a.gif)
+![](https://github.com/uchar/Tutorial-Maker/blob/betterReadme/README%20Files/install.gif)
 
 # How To use
 
