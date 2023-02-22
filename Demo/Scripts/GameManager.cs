@@ -1,11 +1,10 @@
-using System;
 using UnityEngine;
 
-namespace TutorialSystem
+namespace DemoScripts
 {
     public class GameManager : MonoBehaviour
     {
-        [SerializeField] private TutorialSystem tutorialSystem;
+        [SerializeField] private TutorialSystem.TutorialSystem tutorialSystem;
 
         private static GameManager _instance;
 

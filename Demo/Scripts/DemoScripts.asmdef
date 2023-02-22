@@ -1,0 +1,16 @@
+{
+  "name": "DemoScripts",
+  "rootNamespace": "DemoScripts",
+  "references": [
+    "TutorialSystem"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

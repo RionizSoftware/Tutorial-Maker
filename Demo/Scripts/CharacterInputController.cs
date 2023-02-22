@@ -1,10 +1,10 @@
 using UnityEngine;
 
-namespace TutorialSystem
+namespace DemoScripts
 {
     public class CharacterInputController : MonoBehaviour
     {
-        [SerializeField] private TutorialSystem tutorialSystem;
+        [SerializeField] private TutorialSystem.TutorialSystem tutorialSystem;
         private CharacterController _characterController;
 
         // Start is called before the first frame update
