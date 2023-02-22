@@ -6,7 +6,7 @@ Easy to use plugin that helps you create a tutorial system for your unity game
 
 # How to install
 
-Use [UPM](https://docs.unity3d.com/Manual/upm-ui-giturl.html) to install the package via the following Git URL: `https://github.com/uchar/Tutorial-Maker.git#package`.
+Use [UPM](https://docs.unity3d.com/Manual/upm-ui-giturl.html) to install the package via the following Git URL: `https://github.com/uchar/Tutorial-Maker.git`
 
 <img src="https://github.com/uchar/Tutorial-Maker/blob/main/README%20Files/install.gif" width="500" />
 
