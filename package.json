@@ -1,6 +1,6 @@
 {
   "name": "com.rioniz.tutorial-maker",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "displayName": "Tutorial Maker",
   "description": "Create plugins for your game easier",
   "unity": "2021.3",
@@ -18,5 +18,12 @@
     "name": "Rioniz Games",
     "email": "rioniz.company@gmail.com",
     "url": "https://github.com/uchar"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "3d Character",
+      "description": "Contains sample for making tutorial for a 3d character that moves around",
+      "path": "Samples~/3d Character"
+    }
+  ]
 }
