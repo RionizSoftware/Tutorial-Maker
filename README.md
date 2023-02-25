@@ -15,7 +15,7 @@ Use [UPM](https://docs.unity3d.com/Manual/upm-ui-giturl.html) to install the pac
 
 Add `TutorialSystem` object into your scene and change it base on your need
 
-Take a look at Demo/Scene/Scene1 for a complete example of how to set it's parameters
+Take a look at Samples/3d Character/Scenes/Demo for a complete example of how to set it's parameters
 
 <img src="https://github.com/uchar/Tutorial-Maker/blob/main/README%20Files/screenshot1.jpg" width="400" />
 

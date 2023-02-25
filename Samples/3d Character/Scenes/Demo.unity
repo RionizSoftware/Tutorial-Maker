@@ -1397,7 +1397,7 @@ GameObject:
   - component: {fileID: 1929999191}
   - component: {fileID: 1929999192}
   m_Layer: 0
-  m_Name: Toturial System
+  m_Name: Tutorial System
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
